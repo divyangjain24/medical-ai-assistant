@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import "./index.css";
 
-const OPENROUTER_API_KEY = "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";
+const OPENROUTER_API_KEY = "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";
 
 const App = () => {
   const [input, setInput] = useState("");
